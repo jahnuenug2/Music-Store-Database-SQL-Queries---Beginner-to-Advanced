@@ -35,9 +35,7 @@ This repository contains SQL queries designed to solve various questions based o
     - [Moderate Level](#moderate-level)
     - [Advanced Level](#advanced-level)
 4. [Technologies Used](#technologies-used)
-5. [How to Run](#how-to-run)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Overview
 The Music Store database represents a fictional online music store. It contains tables related to customers, orders, albums, artists, and more. This project focuses on creating and executing SQL queries to extract insights from the data.
